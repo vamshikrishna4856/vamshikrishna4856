@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vamshikrishna4856</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://search.app.goo.gl/6hXUTWU">
+<img align="left" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamshikrishna4856&label=Profile%20views&color=0e75b6&style=flat" alt="vamshikrishna4856" /> </p>
 
